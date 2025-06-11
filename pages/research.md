@@ -4,7 +4,7 @@ feature_text: |
   A quick summary of a few of the projects I'm currently working on
 feature_image: "/assets/logos/Estimate.jpg"
 excerpt: ""
-aside: true
+aside: false
 ---
 
 ##### Project 1 - Species competition under "fast" dispersal
