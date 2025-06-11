@@ -6,4 +6,4 @@ feature_image: "eellefsen/assets/logos/EE-crop.jpeg"
 excerpt: "hello"
 ---
 
-I am an mathematical biologist and faculty member at St. Olaf College. My research interests include nonlocal reaction-advection-diffusion equations, patch models, and other ODE systems to model habitat fragmentation, territory formation, and species competition. In my teaching, I am passionate about implementing modeling into the classroom. I work on writing modeling activites that can be used in the calculus and differential equations classrooms. In my free time, I enjoy running, hiking, eating good food, knitting, and hanging out with my husband and dog. 
+I am a mathematical biologist. My research interests include nonlocal reaction-advection-diffusion equations, patch models, and other ODE systems to model habitat fragmentation, territory formation, and species competition. In my teaching, I am passionate about implementing modeling into the classroom. I work on writing modeling activites that can be used in the calculus and differential equations classrooms. In my free time, I enjoy running, hiking, eating good food, knitting, and hanging out with my husband and dog. 
