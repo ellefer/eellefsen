@@ -1,9 +1,8 @@
 ---
 title: Erin Ellefsen
 feature_text: |
-  ## Alembic
   Welcome!
-feature_image: "/assets/logos/EE.jpg"
+feature_image: "/assets/logos/EE.jpeg"
 excerpt: "hello"
 ---
 
