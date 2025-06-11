@@ -96,7 +96,7 @@ lang: en-US # Set the site language
 title: "Erin Ellefsen" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/mathematics.png" # Site logo, also used in jekyll-seo-tag
 description: "Ellefsen Professional Website" # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
+url: "https://ellefer.github.io/eellefsen/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/ellefer/eellefsen"
 email: "ellefs2@stolaf.edu"
