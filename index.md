@@ -2,7 +2,7 @@
 title: Erin Ellefsen
 feature_text: |
   Welcome!
-feature_image: "/assets/logos/EE-crop.jpeg"
+feature_image: "https://ellefer.github.io/eellefsen/assets/logos/EE-crop.jpeg"
 excerpt: "hello"
 ---
 
