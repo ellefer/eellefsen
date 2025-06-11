@@ -7,11 +7,11 @@ excerpt: ""
 aside: true
 ---
 
-## Project 1 - Species competition under "fast" dispersal
+##### Project 1 - Species competition under "fast" dispersal
 
-## Project 2 - Invasive Species Management of Fish
+##### Project 2 - Invasive Species Management of Fish
 
-## Project 3 - Birth-Jump Processes
+##### Project 3 - Birth-Jump Processes
 
-## Project 4 - Territory Development of Social Groups
+##### Project 4 - Territory Development of Social Groups
 
