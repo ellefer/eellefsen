@@ -2,7 +2,7 @@
 title: Research
 feature_text: |
   A quick summary of a few of the projects I'm currently working on
-feature_image: "/assets/logos/Estimate.jpg"
+feature_image: "https://ellefer.github.io/eellefsen/assets/logos/Estimate.jpg"
 excerpt: ""
 aside: false
 ---
